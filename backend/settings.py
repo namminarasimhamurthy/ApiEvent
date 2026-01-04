@@ -61,7 +61,8 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://event-reactfrontend.vercel.app/",
+    "https://event-reactfrontend.vercel.app",
+
 ]
 
 
